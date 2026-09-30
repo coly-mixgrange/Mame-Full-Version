@@ -239,4 +239,4 @@ This repository serves as the official landing page for MAME. The software is di
 **Get the most recent version of MAME today!**
 
 ---
-**Last updated:** 2026-09-30 15:39:39 UTC
+**Last updated:** 2026-09-30 20:34:24 UTC
